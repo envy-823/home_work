@@ -46,6 +46,7 @@ public class program26 {
                 break;
             default:
                 System.out.println("数据错误");
+                //"pamzichaoniubi
         }
     }
 }
